@@ -1,6 +1,0 @@
-bot_data.json
-social_data.json
-backup_*.json
-.env
-__pycache__/
-*.pyc
